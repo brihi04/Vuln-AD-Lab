@@ -29,9 +29,6 @@ Create a vulnerable active directory that's allowing you to test most of active 
 - Public SMB Share
 - Zerologon (Check version)
 
-### Writeup
-Now includes a writeup in the wiki section.
-
 ### Example
 ```powershell
 # if you didn't install Active Directory yet , you can try 
