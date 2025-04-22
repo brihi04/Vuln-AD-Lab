@@ -607,4 +607,4 @@ function Invoke-VulnAD {
 	Sleep 30; Restart-Computer
 }
 
-Invoke-VulnAD -UsersLimit 150 -DomainName "estc.edu"
+Invoke-VulnAD -UsersLimit 150 -DomainName "change.me"
